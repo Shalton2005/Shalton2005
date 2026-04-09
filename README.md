@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Shalton Menezes
 
-<!--
-**Shalton2005/Shalton2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AIML Student @ SJEC
+🤖 Software Lead @ ARC (Automation & Robotics Club)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🔭 Building IoT and software-based systems for real-world problems
+* 🤖 Active in ARC working on embedded and automation projects
+* 🌱 Learning system design and software development
+
+---
+
+## 🛠️ Tech Stack
+
+* Python, C++, Java
+* ESP32, Arduino
+* Embedded Systems
+* Web Development
+
+---
+
+## 📌 Projects
+
+### 🔹 RFID Door Lock System
+
+Secure access system using ESP32 and RFID technology.
+
+### 🔹 Quiz Portal (QUIZIX)
+
+Web-based quiz platform with timer and evaluation features.
+
+### 🔹 Faculty Publication Portal
+
+System for managing and displaying academic publications.
+
+### 🔹 Student Feedback Report Generator
+
+Automates Excel-based feedback into structured reports.
+
+### 🔹 Attendance Tracking System
+
+Application to track and manage attendance efficiently.
+
+---
+
+## 🏆 Activities
+
+* Software Lead at ARC
+* Built multiple real-world system-based projects
+
+---
+
+⭐ Focused on building practical and impactful solutions
