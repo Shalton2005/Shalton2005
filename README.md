@@ -1,56 +1,78 @@
-# 👋 Hi, I'm Shalton Menezes
+<h1 align="center">Hi 👋, I'm Shalton Menezes</h1>
+<h3 align="center">Artificial Intelligence & Machine Learning Student | Software Lead @ ARC | Building Practical Technology Solutions</h3>
 
-🎓 AIML Student @ SJEC
-🤖 Software Lead @ ARC (Automation & Robotics Club)
+<p align="center">
+  <img src="https://img.shields.io/badge/AIML-SJEC-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Lead-ARC-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-IoT%20%26%20Software-orange?style=for-the-badge" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🔭 Building IoT and software-based systems for real-world problems
-* 🤖 Active in ARC working on embedded and automation projects
-* 🌱 Learning system design and software development
+- 🎓 Artificial Intelligence & Machine Learning Student at **St. Joseph Engineering College, Mangaluru**
+- 🤖 Software Lead at **Automation & Robotics Club (ARC)**
+- 💡 Passionate about building software and IoT solutions that solve real-world problems
+- 🌱 Currently exploring Software Engineering, System Design and Embedded Systems
+- 🚀 Enjoy turning ideas into practical applications that improve efficiency
 
 ---
 
 ## 🛠️ Tech Stack
 
-* Python, C++, Java
-* ESP32, Arduino
-* Embedded Systems
-* Web Development
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded%20Systems-555555?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20Development-0A66C2?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 📌 Projects
+## 📂 Featured Projects
 
-### 🔹 RFID Door Lock System
+🔹 **RFID Door Lock System**  
+Secure access control system using ESP32 and RFID technology.
 
-Secure access system using ESP32 and RFID technology.
+🔹 **Student Feedback Report Generator**  
+Automated report generation system that streamlines student feedback processing and reduces manual administrative effort.
 
-### 🔹 Quiz Portal (QUIZIX)
+🔹 **Faculty Publication Portal**  
+Web application for managing and organizing faculty publication records.
 
-Web-based quiz platform with timer and evaluation features.
+🔹 **QUIZIX – Quiz Portal**  
+Interactive web-based quiz platform with timer and evaluation features.
 
-### 🔹 Faculty Publication Portal
-
-System for managing and displaying academic publications.
-
-### 🔹 Student Feedback Report Generator
-
-Automates Excel-based feedback into structured reports.
-
-### 🔹 Attendance Tracking System
-
-Application to track and manage attendance efficiently.
+🔹 **Attendance Tracking System**  
+Application for efficient attendance monitoring and management.
 
 ---
 
-## 🏆 Activities
+## 🏆 Leadership & Activities
 
-* Software Lead at ARC
-* Built multiple real-world system-based projects
+- Software Lead — Automation & Robotics Club (ARC)
+- Developed software and IoT solutions for institutional and club requirements
+- Passionate about solving practical engineering problems through technology
 
 ---
 
-⭐ Focused on building practical and impactful solutions
+## 🎯 Current Focus
+
+- Software Engineering
+- IoT & Embedded Systems
+- System Design
+- Building practical automation solutions
+
+---
+
+<p align="center">
+
+⭐ <b>Building practical technology that creates meaningful impact.</b>
+
+</p>
