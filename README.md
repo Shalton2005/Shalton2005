@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shalton Menezes</h1>
-<h3 align="center">Artificial Intelligence & Machine Learning Student | Software Lead @ ARC | Building Practical Technology Solutions</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AIML-SJEC-blue?style=for-the-badge" />
@@ -24,8 +23,6 @@
 <p>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Embedded%20Systems-555555?style=for-the-badge"/>
