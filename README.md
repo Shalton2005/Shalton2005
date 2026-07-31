@@ -20,7 +20,11 @@ Currently serving as **Software Lead, Automation & Robotics Club (ARC)**, coordi
 
 <br>
 
-## Current Focus
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Current Focus
 
 - Building AI-powered software systems
 - Backend Engineering
@@ -28,59 +32,83 @@ Currently serving as **Software Lead, Automation & Robotics Club (ARC)**, coordi
 - Embedded & IoT Applications
 - System Design
 
+</td>
+<td valign="top" width="50%">
+
+### Currently Exploring
+
+- Large Language Models (LLMs)
+- Agentic AI Systems
+- Software Architecture
+- Distributed Systems
+
+</td>
+</tr>
+</table>
+
 <br>
 
 ## Featured Projects
 
 <br>
 
+<table>
+<tr><td>
+
 **[SafeFusion AI](https://github.com/Shalton2005/safefusion-ai)**
 
 Industrial safety intelligence platform built for the ET AI Hackathon 2.0. Fuses real-time CCTV analysis (YOLOv11 for PPE and hazard detection) with IoT sensor telemetry into a compound risk engine, and uses a LangGraph-orchestrated LLM (Llama 3 via Ollama) with a RAG pipeline over safety regulations (OISD, DGMS, Factory Act) to generate explainable risk assessments.
 
-`FastAPI` `React 19 + TypeScript` `PostgreSQL + pgvector` `Neo4j` `LangGraph/LangChain` `YOLOv11` `OpenCV` `Docker Compose`
+<sub>`FastAPI` `React 19 + TypeScript` `PostgreSQL + pgvector` `Neo4j` `LangGraph/LangChain` `YOLOv11` `OpenCV` `Docker Compose`</sub>
 
 **Impact:** Turns disconnected sensor, video, and compliance data into a single real-time risk picture instead of siloed manual checks.
 
-<br>
+</td></tr>
+<tr><td>
 
 **[Student Feedback System](https://github.com/Shalton2005/student-feedback-system)**
 
 Web application replacing a Google Forms–based academic feedback workflow at SJEC with a purpose-built platform covering form authoring, student submission, and report generation, serving separate administrator and student portals.
 
-`React 19` `TypeScript (strict)` `Vite` `ESLint/Prettier` `Husky + Commitlint`
+<sub>`React 19` `TypeScript (strict)` `Vite` `ESLint/Prettier` `Husky + Commitlint`</sub>
 
 **Impact:** Removes a manual export-to-Excel-to-Word reporting chain, replacing it with a dedicated form-to-report pipeline.
 
-<br>
+</td></tr>
+<tr><td>
 
 **[EnergyTrack](https://github.com/Shalton2005/EnergyTrack)**
 
 Flask-based household energy monitoring platform with authentication, usage dashboards, billing estimation, an admin portal, and an ML-based consumption predictor. Designed for extension to real ESP32 + MQTT hardware for live sensor data.
 
-`Flask` `Flask-SQLAlchemy` `scikit-learn` `pandas` `SQLite`
+<sub>`Flask` `Flask-SQLAlchemy` `scikit-learn` `pandas` `SQLite`</sub>
 
 **Impact:** Gives users a billing-estimate and usage-trend view of household energy consumption, with a documented path to real sensor integration.
 
-<br>
+</td></tr>
+<tr><td>
 
 **[Restaurant Management System](https://github.com/Shalton2005/restaurant-management-system)**
 
 Order and billing management system with trigger-driven bill totals and a live dashboard, built directly on relational database features rather than application-layer recalculation.
 
-`PHP 8` `MySQL 8` `Apache`
+<sub>`PHP 8` `MySQL 8` `Apache`</sub>
 
 **Impact:** Demonstrates database-enforced business logic (triggers) for consistent, tamper-resistant billing.
 
-<br>
+</td></tr>
+<tr><td>
 
 **[Dual-Axis Solar Tracker (PID Control)](https://github.com/Shalton2005/CTE-Solar-Panel-Tracking)**
 
 Simulink model and MATLAB scripts simulating a dual-axis solar tracking system: computing sun position for a given location, driving panel azimuth/elevation via PID loops, and respecting actuator angle and rate limits.
 
-`MATLAB` `Simulink`
+<sub>`MATLAB` `Simulink`</sub>
 
 **Impact:** Working simulation environment for evaluating PID tracking response before hardware implementation.
+
+</td></tr>
+</table>
 
 <br>
 
@@ -96,32 +124,44 @@ Responsible for backend architecture and the AI pipeline: FastAPI services, the 
 
 ## Selected Achievements
 
-- 🥈 Silver Medal — India International Innovation & Invention Expo
-- 🏆 COMEDK Idea Pitching Competition — Smart Energy Meter
-- 📜 Letter of Appreciation — Student Feedback Management System
+🥈 **Silver Medal** — India International Innovation & Invention Expo
+🏆 **COMEDK Idea Pitching Competition** — Smart Energy Meter
+📜 **Letter of Appreciation** — Student Feedback Management System
 
 <br>
 
 ## Core Technologies
 
-|  |  |
-|---|---|
-| **Languages** | Python · TypeScript · PHP · C++ · MATLAB · SQL |
-| **AI / ML** | PyTorch · scikit-learn · LangChain / LangGraph · YOLOv11 · OpenCV · RAG pipelines · pandas |
-| **Backend** | FastAPI · Flask · Flask-SQLAlchemy · SQLAlchemy · REST APIs |
-| **Databases** | PostgreSQL · MySQL · SQLite · Neo4j · pgvector |
-| **Frontend** | React · Vite · TailwindCSS |
-| **Embedded / IoT** | ESP32 · ESP8266 · Arduino |
-| **DevOps & Tools** | Docker · Docker Compose · Git · GitHub Actions · VS Code · PyCharm |
-
-<br>
-
-## Currently Exploring
-
-- Large Language Models (LLMs)
-- Agentic AI Systems
-- Software Architecture
-- Distributed Systems
+<table>
+<tr>
+<td valign="top"><b>Languages</b></td>
+<td>Python · TypeScript · PHP · C++ · MATLAB · SQL</td>
+</tr>
+<tr>
+<td valign="top"><b>AI / ML</b></td>
+<td>PyTorch · scikit-learn · LangChain / LangGraph · YOLOv11 · OpenCV · RAG pipelines · pandas</td>
+</tr>
+<tr>
+<td valign="top"><b>Backend</b></td>
+<td>FastAPI · Flask · Flask-SQLAlchemy · SQLAlchemy · REST APIs</td>
+</tr>
+<tr>
+<td valign="top"><b>Databases</b></td>
+<td>PostgreSQL · MySQL · SQLite · Neo4j · pgvector</td>
+</tr>
+<tr>
+<td valign="top"><b>Frontend</b></td>
+<td>React · Vite · TailwindCSS</td>
+</tr>
+<tr>
+<td valign="top"><b>Embedded / IoT</b></td>
+<td>ESP32 · ESP8266 · Arduino</td>
+</tr>
+<tr>
+<td valign="top"><b>DevOps & Tools</b></td>
+<td>Docker · Docker Compose · Git · GitHub Actions · VS Code · PyCharm</td>
+</tr>
+</table>
 
 <br>
 
@@ -146,8 +186,8 @@ Responsible for backend architecture and the AI pipeline: FastAPI services, the 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaltonmenezes/)
-[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaltonmenezes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaltonmenezes/)
+[![Email](https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaltonmenezes@gmail.com)
 
 </div>
 </content>
