@@ -8,7 +8,11 @@ Building AI-powered software and intelligent applications that solve real-world 
 
 </div>
 
-<br><br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%" />
+
+<br>
 
 ### About
 
@@ -18,36 +22,20 @@ I enjoy building AI-powered software, full-stack web applications, and intellige
 
 Currently serving as Software Lead at the Automation & Robotics Club (ARC), leading software initiatives and collaborating on AI and automation projects.
 
-<br><br>
+<br>
 
-<table width="100%">
-<thead>
-<tr>
-<th align="left" width="50%">Current Focus</th>
-<th align="left" width="50%">Currently Exploring</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>AI-powered Software Development</td>
-<td>Agentic AI &amp; LLM Applications</td>
-</tr>
-<tr>
-<td>Computer Vision</td>
-<td>Software Architecture &amp; System Design</td>
-</tr>
-<tr>
-<td>Intelligent Automation</td>
-<td>Distributed Systems</td>
-</tr>
-<tr>
-<td>IoT Applications</td>
-<td>Scalable Backend Engineering</td>
-</tr>
-</tbody>
-</table>
+| Current Focus | Currently Exploring |
+| :--- | :--- |
+| AI-powered Software Development | Agentic AI & LLM Applications |
+| Computer Vision | Software Architecture & System Design |
+| Intelligent Automation | Distributed Systems |
+| IoT Applications | Scalable Backend Engineering |
 
-<br><br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%" />
+
+<br>
 
 ### Featured Projects
 
@@ -127,7 +115,11 @@ LAN-based quiz platform for institutional exams with admin and student portals, 
 **Impact**
 Runs multi-session live quizzes for a full classroom over a local network with export-ready results.
 
-<br><br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%" />
+
+<br>
 
 ### Experience
 
@@ -137,33 +129,73 @@ Lead software development for web, AI, and embedded systems while defining techn
 **Contributor** · SafeFusion AI (team project, ET AI Hackathon 2.0)
 Responsible for backend architecture and the AI pipeline: FastAPI services, the compound risk engine, and integration of the computer vision, RAG, and knowledge-graph components.
 
-<br><br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%" />
+
+<br>
 
 ### Selected Achievements
 
 - 🏆 **COMEDK Idea Pitching Competition** — Smart Energy Meter
 - 📜 **Letter of Appreciation** — Student Feedback Management System
 
-<br><br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%" />
+
+<br>
 
 ### Core Technologies
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<table width="100%">
+<tr>
+<td width="18%" valign="top"><b>Languages</b></td>
+<td width="82%">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td width="18%" valign="top"><b>AI / ML</b></td>
+<td width="82%">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td width="18%" valign="top"><b>Backend</b></td>
+<td width="82%">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td width="18%" valign="top"><b>Database</b></td>
+<td width="82%">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td width="18%" valign="top"><b>Tools</b></td>
+<td width="82%">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
+</td>
+</tr>
+</table>
 
-**AI / ML**
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/-YOLO-111111?style=flat-square) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
+<br>
 
-**Backend**
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%" />
 
-**Database**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-
-<br><br>
+<br>
 
 ### GitHub Statistics
 
@@ -174,7 +206,11 @@ Responsible for backend architecture and the AI pipeline: FastAPI services, the 
 
 </div>
 
-<br><br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%" />
+
+<br>
 
 <div align="center">
 
