@@ -2,192 +2,184 @@
 
 # Shalton Menezes
 
-**AI Software Engineer | Backend Engineer | Intelligent Systems**
+**AI Software Engineer**
 
-Building AI-powered software, backend systems, and embedded solutions that solve real-world problems.
+Building AI-powered software and intelligent applications that solve real-world problems.
 
 </div>
 
-<br>
+<br><br>
 
-## About
+### About
 
-AI & Machine Learning undergraduate at St Joseph Engineering College, Mangaluru, focused on backend engineering and applied AI.
+AI & Machine Learning undergraduate at St Joseph Engineering College, Mangaluru.
 
-I build end-to-end software systems—from FastAPI and Flask backends to machine learning pipelines and ESP32-based IoT applications—with an emphasis on clean architecture, maintainability, and real-world deployment.
+I enjoy building AI-powered software, full-stack web applications, and intelligent automation systems with an emphasis on clean architecture, maintainability, and practical problem solving.
 
-Currently serving as **Software Lead, Automation & Robotics Club (ARC)**, coordinating software and IoT projects for club initiatives.
+Currently serving as Software Lead at the Automation & Robotics Club (ARC), leading software initiatives and collaborating on AI and automation projects.
 
-<br>
+<br><br>
 
-<table>
+<table width="100%">
+<thead>
 <tr>
-<td valign="top" width="50%">
-
-### Current Focus
-
-- Building AI-powered software systems
-- Backend Engineering
-- Computer Vision & Intelligent Automation
-- Embedded & IoT Applications
-- System Design
-
-</td>
-<td valign="top" width="50%">
-
-### Currently Exploring
-
-- Large Language Models (LLMs)
-- Agentic AI Systems
-- Software Architecture
-- Distributed Systems
-
-</td>
+<th align="left" width="50%">Current Focus</th>
+<th align="left" width="50%">Currently Exploring</th>
 </tr>
+</thead>
+<tbody>
+<tr>
+<td>AI-powered Software Development</td>
+<td>Agentic AI &amp; LLM Applications</td>
+</tr>
+<tr>
+<td>Computer Vision</td>
+<td>Software Architecture &amp; System Design</td>
+</tr>
+<tr>
+<td>Intelligent Automation</td>
+<td>Distributed Systems</td>
+</tr>
+<tr>
+<td>IoT Applications</td>
+<td>Scalable Backend Engineering</td>
+</tr>
+</tbody>
 </table>
 
-<br>
+<br><br>
 
-## Featured Projects
-
-<br>
-
-<table>
-<tr><td>
-
-**[SafeFusion AI](https://github.com/Shalton2005/safefusion-ai)**
-
-Industrial safety intelligence platform built for the ET AI Hackathon 2.0. Fuses real-time CCTV analysis (YOLOv11 for PPE and hazard detection) with IoT sensor telemetry into a compound risk engine, and uses a LangGraph-orchestrated LLM (Llama 3 via Ollama) with a RAG pipeline over safety regulations (OISD, DGMS, Factory Act) to generate explainable risk assessments.
-
-<sub>`FastAPI` `React 19 + TypeScript` `PostgreSQL + pgvector` `Neo4j` `LangGraph/LangChain` `YOLOv11` `OpenCV` `Docker Compose`</sub>
-
-**Impact:** Turns disconnected sensor, video, and compliance data into a single real-time risk picture instead of siloed manual checks.
-
-</td></tr>
-<tr><td>
-
-**[Student Feedback System](https://github.com/Shalton2005/student-feedback-system)**
-
-Web application replacing a Google Forms–based academic feedback workflow at SJEC with a purpose-built platform covering form authoring, student submission, and report generation, serving separate administrator and student portals.
-
-<sub>`React 19` `TypeScript (strict)` `Vite` `ESLint/Prettier` `Husky + Commitlint`</sub>
-
-**Impact:** Removes a manual export-to-Excel-to-Word reporting chain, replacing it with a dedicated form-to-report pipeline.
-
-</td></tr>
-<tr><td>
-
-**[EnergyTrack](https://github.com/Shalton2005/EnergyTrack)**
-
-Flask-based household energy monitoring platform with authentication, usage dashboards, billing estimation, an admin portal, and an ML-based consumption predictor. Designed for extension to real ESP32 + MQTT hardware for live sensor data.
-
-<sub>`Flask` `Flask-SQLAlchemy` `scikit-learn` `pandas` `SQLite`</sub>
-
-**Impact:** Gives users a billing-estimate and usage-trend view of household energy consumption, with a documented path to real sensor integration.
-
-</td></tr>
-<tr><td>
-
-**[Restaurant Management System](https://github.com/Shalton2005/restaurant-management-system)**
-
-Order and billing management system with trigger-driven bill totals and a live dashboard, built directly on relational database features rather than application-layer recalculation.
-
-<sub>`PHP 8` `MySQL 8` `Apache`</sub>
-
-**Impact:** Demonstrates database-enforced business logic (triggers) for consistent, tamper-resistant billing.
-
-</td></tr>
-<tr><td>
-
-**[Dual-Axis Solar Tracker (PID Control)](https://github.com/Shalton2005/CTE-Solar-Panel-Tracking)**
-
-Simulink model and MATLAB scripts simulating a dual-axis solar tracking system: computing sun position for a given location, driving panel azimuth/elevation via PID loops, and respecting actuator angle and rate limits.
-
-<sub>`MATLAB` `Simulink`</sub>
-
-**Impact:** Working simulation environment for evaluating PID tracking response before hardware implementation.
-
-</td></tr>
-</table>
+### Featured Projects
 
 <br>
 
-## Experience
+#### [SafeFusion AI](https://github.com/Shalton2005/safefusion-ai)
 
-**Software Lead — Automation & Robotics Club (ARC)**
+Industrial safety intelligence platform combining real-time CCTV analysis with IoT sensor telemetry into a compound risk engine, using a RAG-grounded LLM to generate explainable safety assessments.
+
+**Tech Stack**
+`FastAPI` `React` `PostgreSQL` `Neo4j` `LangChain/LangGraph` `YOLOv11` `OpenCV` `Docker`
+
+**Impact**
+Turns disconnected sensor, video, and compliance data into a single real-time risk picture.
+
+<br>
+
+*  *  *
+
+<br>
+
+#### [LeafMind](https://github.com/lukenoronha/leafmind)
+
+Vision-language framework for medicinal plant identification, combining CLIP-based visual retrieval with a vision-language model and a RAG pipeline so users can ask follow-up questions grounded in a curated knowledge base.
+
+**Tech Stack**
+`FastAPI` `React` `PyTorch` `Qwen2.5-VL` `CLIP` `ChromaDB` `PostgreSQL` `Docker`
+
+**Impact**
+Moves plant identification beyond a bare species label into grounded, explainable, conversational analysis.
+
+<br>
+
+*  *  *
+
+<br>
+
+#### Student Feedback Management System
+
+Web application built for SJEC that replaces a Google Forms–based feedback process with a dedicated platform for form authoring, student submission, and report generation across administrator and student portals.
+
+**Tech Stack**
+`React` `TypeScript` `Vite`
+
+**Impact**
+Removes a manual export-to-Excel-to-Word reporting chain with a direct form-to-report pipeline.
+
+<br>
+
+*  *  *
+
+<br>
+
+#### Faculty Publication Portal
+
+Web application for managing and organizing faculty publication records, including bulk user setup, citation updates, and report generation.
+
+**Tech Stack**
+`Flask` `SQLAlchemy` `SQLite`
+
+**Impact**
+Centralizes faculty publication tracking that was previously handled manually.
+
+<br>
+
+*  *  *
+
+<br>
+
+#### QUIZIX
+
+LAN-based quiz platform for institutional exams with admin and student portals, built for production deployment with connection pooling and concurrent session support.
+
+**Tech Stack**
+`Flask` `PostgreSQL` `Gunicorn` `Nginx`
+
+**Impact**
+Runs multi-session live quizzes for a full classroom over a local network with export-ready results.
+
+<br><br>
+
+### Experience
+
+**Software Lead** · Automation & Robotics Club (ARC)
 Lead software development for web, AI, and embedded systems while defining technical direction, collaborating across teams, and mentoring club members on engineering best practices.
 
-**Contributor — SafeFusion AI** (team project, ET AI Hackathon 2.0)
+**Contributor** · SafeFusion AI (team project, ET AI Hackathon 2.0)
 Responsible for backend architecture and the AI pipeline: FastAPI services, the compound risk engine, and integration of the computer vision, RAG, and knowledge-graph components.
 
-<br>
+<br><br>
 
-## Selected Achievements
+### Selected Achievements
 
-🥈 **Silver Medal** — India International Innovation & Invention Expo
-🏆 **COMEDK Idea Pitching Competition** — Smart Energy Meter
-📜 **Letter of Appreciation** — Student Feedback Management System
+- 🏆 **COMEDK Idea Pitching Competition** — Smart Energy Meter
+- 📜 **Letter of Appreciation** — Student Feedback Management System
 
-<br>
+<br><br>
 
-## Core Technologies
+### Core Technologies
 
-<table>
-<tr>
-<td valign="top"><b>Languages</b></td>
-<td>Python · TypeScript · PHP · C++ · MATLAB · SQL</td>
-</tr>
-<tr>
-<td valign="top"><b>AI / ML</b></td>
-<td>PyTorch · scikit-learn · LangChain / LangGraph · YOLOv11 · OpenCV · RAG pipelines · pandas</td>
-</tr>
-<tr>
-<td valign="top"><b>Backend</b></td>
-<td>FastAPI · Flask · Flask-SQLAlchemy · SQLAlchemy · REST APIs</td>
-</tr>
-<tr>
-<td valign="top"><b>Databases</b></td>
-<td>PostgreSQL · MySQL · SQLite · Neo4j · pgvector</td>
-</tr>
-<tr>
-<td valign="top"><b>Frontend</b></td>
-<td>React · Vite · TailwindCSS</td>
-</tr>
-<tr>
-<td valign="top"><b>Embedded / IoT</b></td>
-<td>ESP32 · ESP8266 · Arduino</td>
-</tr>
-<tr>
-<td valign="top"><b>DevOps & Tools</b></td>
-<td>Docker · Docker Compose · Git · GitHub Actions · VS Code · PyCharm</td>
-</tr>
-</table>
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-<br>
+**AI / ML**
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/-YOLO-111111?style=flat-square) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
 
-## GitHub Statistics
+**Backend**
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=flat-square)
+
+**Database**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+
+<br><br>
+
+### GitHub Statistics
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-iw5f707pi-shalton.vercel.app/api?username=Shalton2005&show_icons=true&theme=github_dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended-iw5f707pi-shalton.vercel.app/api?username=Shalton2005&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-stats-extended-iw5f707pi-shalton.vercel.app/api?username=Shalton2005&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="48%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-iw5f707pi-shalton.vercel.app/api/top-langs/?username=Shalton2005&layout=compact&theme=github_dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended-iw5f707pi-shalton.vercel.app/api/top-langs/?username=Shalton2005&layout=compact&theme=default&hide_border=true" />
-  <img src="https://github-stats-extended-iw5f707pi-shalton.vercel.app/api/top-langs/?username=Shalton2005&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%" />
-</picture>
+<img src="https://github-stats-extended-iw5f707pi-shalton.vercel.app/api?username=Shalton2005&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165" />
+<img src="https://github-stats-extended-iw5f707pi-shalton.vercel.app/api/top-langs/?username=Shalton2005&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="165" />
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaltonmenezes/)
-[![Email](https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaltonmenezes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaltonmenezes/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaltonmenezes@gmail.com)
 
 </div>
 </content>
