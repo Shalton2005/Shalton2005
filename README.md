@@ -46,7 +46,7 @@ Currently serving as Software Lead at the Automation & Robotics Club (ARC), lead
 Industrial safety intelligence platform combining real-time CCTV analysis with IoT sensor telemetry into a compound risk engine, using a RAG-grounded LLM to generate explainable safety assessments.
 
 **Tech Stack**
-`FastAPI` `React` `PostgreSQL` `Neo4j` `LangChain/LangGraph` `YOLOv11` `OpenCV` `Docker`
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain%2FLangGraph-1C3C3C?style=flat-square) ![YOLOv11](https://img.shields.io/badge/YOLOv11-111111?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Impact**
 Turns disconnected sensor, video, and compliance data into a single real-time risk picture.
@@ -62,7 +62,7 @@ Turns disconnected sensor, video, and compliance data into a single real-time ri
 Vision-language framework for medicinal plant identification, combining CLIP-based visual retrieval with a vision-language model and a RAG pipeline so users can ask follow-up questions grounded in a curated knowledge base.
 
 **Tech Stack**
-`FastAPI` `React` `PyTorch` `Qwen2.5-VL` `CLIP` `ChromaDB` `PostgreSQL` `Docker`
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Qwen2.5--VL](https://img.shields.io/badge/Qwen2.5--VL-purple?style=flat-square) ![CLIP](https://img.shields.io/badge/CLIP-black?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Impact**
 Moves plant identification beyond a bare species label into grounded, explainable, conversational analysis.
@@ -78,7 +78,7 @@ Moves plant identification beyond a bare species label into grounded, explainabl
 Web application built for SJEC that replaces a Google Forms–based feedback process with a dedicated platform for form authoring, student submission, and report generation across administrator and student portals.
 
 **Tech Stack**
-`React` `TypeScript` `Vite`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 **Impact**
 Removes a manual export-to-Excel-to-Word reporting chain with a direct form-to-report pipeline.
@@ -94,7 +94,7 @@ Removes a manual export-to-Excel-to-Word reporting chain with a direct form-to-r
 Web application for managing and organizing faculty publication records, including bulk user setup, citation updates, and report generation.
 
 **Tech Stack**
-`Flask` `SQLAlchemy` `SQLite`
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Impact**
 Centralizes faculty publication tracking that was previously handled manually.
@@ -110,7 +110,7 @@ Centralizes faculty publication tracking that was previously handled manually.
 LAN-based quiz platform for institutional exams with admin and student portals, built for production deployment with connection pooling and concurrent session support.
 
 **Tech Stack**
-`Flask` `PostgreSQL` `Gunicorn` `Nginx`
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 **Impact**
 Runs multi-session live quizzes for a full classroom over a local network with export-ready results.
